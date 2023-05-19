@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.header {
+  font-size: 5rem;
+}
+
+.endScreen {
+  width: 100vw;
+  height: 100vw;
+  background-color: red;
+  position: absolute;
+  z-index: -10000;
+}
+
+.red {
+  color: red;
+}
